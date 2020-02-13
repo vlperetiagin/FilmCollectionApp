@@ -1,2 +1,0 @@
-# FilmCollectionApp
-Created with CodeSandbox
